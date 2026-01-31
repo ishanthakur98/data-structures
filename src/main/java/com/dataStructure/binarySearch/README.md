@@ -17,9 +17,12 @@ At every step, maintain a correct range that still contains the answer, then shr
 
 ### Index-based (sorted array)
 - [LC 704 — Binary Search](../java/src/main/java/com/dataStructure/binarySearch/solutions/Lc704BinarySearch.java)
+- [LC 35 — Binary Search](../java/src/main/java/com/dataStructure/binarySearch/solutions/L35SearchInsertPosition.java)
+
 
 ### Boundaries (lower/upper bound)
 - [Lower Bound (first index >= x)](../java/src/main/java/com/dataStructure/binarySearch/solutions/LowerBound.java)
+- [Upper Bound (last index >= x)](../java/src/main/java/com/dataStructure/binarySearch/solutions/UpperBound.java)
 
 ### Answer space (predicate / first-true)
 - _Add next problem here_
