@@ -1,4 +1,4 @@
-package com.dataStructure.binarySearch;
+package com.dataStructure.binarySearch.solutions;
 
 public class Lc704BinarySearch {
 
@@ -32,6 +32,6 @@ public class Lc704BinarySearch {
         return -1;
     }
 
-    // time complexity O(nlogn)
+    // time complexity O(logn)
     // space complexity O(1)
 }
