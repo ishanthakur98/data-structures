@@ -19,7 +19,7 @@ At every step, maintain a correct range that still contains the answer, then shr
 - [LC 704 — Binary Search](../java/src/main/java/com/dataStructure/binarySearch/solutions/Lc704BinarySearch.java)
 
 ### Boundaries (lower/upper bound)
-- _Add next problem here_
+- [Lower Bound (first index >= x)](../java/src/main/java/com/dataStructure/binarySearch/solutions/LowerBound.java)
 
 ### Answer space (predicate / first-true)
 - _Add next problem here_
